@@ -1,5 +1,5 @@
-name = "Ellito"
-last_name = "Tadeo"
+name = "Tadeo"
+last_name = "Elliot"
 
 greeting = "Hi " + name + " " + last_name + "How are you?"
 print(greeting)
